@@ -1,7 +1,9 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AnnGlorious+Mueni!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=800080&lines=Hi+There!+👋;+I'm+AnnGlorious+Mueni!;" />
+    </a>
 </h1>
+
 # 💫 About Me:
 I am an aspiring Full-Stack Developer with a passion for building  innovative applications.<br>I am curently learning Node.js and Django<br>Coding fun fact:<br><br>The first computer programmer was a woman! 🎉<br>Ada Lovelace, an English mathematician, is credited as the first computer programmer. In the mid-1800s, she wrote the first algorithm intended to be executed by a machine—the Analytical Engine, designed by Charles Babbage. She even predicted that computers could do more than calculations, like creating music and art, long before such possibilities existed. 🌟 
 
